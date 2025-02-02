@@ -13,6 +13,6 @@ Ce projet est une application web développée avec Blazor, un framework permett
 2. Ouvrez la solution dans Visual Studio
 3. Restaurez les packages NuGet
 4. Lancez l'application
-
+(Le projet est dans la branche Master)
 ## Licence
 Ce projet est sous licence Apache
