@@ -1,0 +1,196 @@
+C:/Users/aynasri/BlazorWebsiteInProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.AssemblyReference.cache
+C:/Users/aynasri/BlazorWebsiteInProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aynasri/BlazorWebsiteInProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfoInputs.cache
+C:/Users/aynasri/BlazorWebsiteInProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfo.cs
+C:/Users/aynasri/BlazorWebsiteInProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CoreCompileInputs.cache
+C:/Users/aynasri/BlazorWebsiteInProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/aynasri/BlazorWebsiteInProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.sourcelink.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.AssemblyReference.cache
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfoInputs.cache
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfo.cs
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CoreCompileInputs.cache
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.sourcelink.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.staticwebassets.runtime.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.exe
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.deps.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.runtimeconfig.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.dll
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.pdb
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Blazored.LocalStorage.dll
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.FilmFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.build.FilmFront.props
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmFront.props
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmFront.props
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/bundle/FilmFront.styles.css
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/projectbundle/FilmFront.bundle.scp.css
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CopyComplete
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.dll
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/refint/FilmFront.dll
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.pdb
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.genruntimeconfig.cache
+C:/Users/aynasri/Desktop/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/ref/FilmFront.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.staticwebassets.runtime.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.exe
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.deps.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.runtimeconfig.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.pdb
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Blazored.LocalStorage.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.AssemblyReference.cache
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfoInputs.cache
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfo.cs
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CoreCompileInputs.cache
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.sourcelink.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.FilmFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.build.FilmFront.props
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmFront.props
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmFront.props
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/bundle/FilmFront.styles.css
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/projectbundle/FilmFront.bundle.scp.css
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CopyComplete
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/refint/FilmFront.dll
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.pdb
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.genruntimeconfig.cache
+C:/Users/aynasri/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/ref/FilmFront.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.staticwebassets.runtime.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.exe
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.deps.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.runtimeconfig.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.pdb
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Blazored.LocalStorage.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.AssemblyReference.cache
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfoInputs.cache
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfo.cs
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CoreCompileInputs.cache
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.sourcelink.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.FilmFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.build.FilmFront.props
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmFront.props
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmFront.props
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/bundle/FilmFront.styles.css
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/projectbundle/FilmFront.bundle.scp.css
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CopyComplete
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/refint/FilmFront.dll
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.pdb
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.genruntimeconfig.cache
+C:/Users/aynasri/Desktop/CODETEMP/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/ref/FilmFront.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.AssemblyReference.cache
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfoInputs.cache
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfo.cs
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CoreCompileInputs.cache
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.sourcelink.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/appsettings.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.staticwebassets.runtime.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.staticwebassets.endpoints.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.exe
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.deps.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.runtimeconfig.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.pdb
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Blazored.LocalStorage.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Formulaireinscription.razor.rz.scp.css
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Pages/Inscription.razor.rz.scp.css
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Pages/Recherche.razor.rz.scp.css
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/bundle/FilmFront.styles.css
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/projectbundle/FilmFront.bundle.scp.css
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.FilmFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.FilmFront.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.build.FilmFront.props
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmFront.props
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmFront.props
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.Up2Date
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/refint/FilmFront.dll
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.pdb
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.genruntimeconfig.cache
+C:/Users/nasri ayoub/OneDrive - Université Clermont Auvergne/Desktop/1901083VX2501425SQ400228CSL2101197SQ2001140DXUD/2024-2025/TP Site Web Blazor/BlazorWebsite-InProgress/Frontend/FilmFront/obj/Debug/net8.0/ref/FilmFront.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/appsettings.Development.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/appsettings.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.staticwebassets.runtime.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/FilmFront
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.deps.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.runtimeconfig.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/FilmFront.pdb
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/Blazored.LocalStorage.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/bin/Debug/net8.0/Microsoft.JSInterop.WebAssembly.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.AssemblyReference.cache
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.GeneratedMSBuildEditorConfig.editorconfig
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfoInputs.cache
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.AssemblyInfo.cs
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.CoreCompileInputs.cache
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.MvcApplicationPartsAssemblyInfo.cache
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.sourcelink.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.build.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.development.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.FilmFront.Microsoft.AspNetCore.StaticWebAssets.props
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.build.FilmFront.props
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmFront.props
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmFront.props
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/staticwebassets.pack.json
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Formulaireinscription.razor.rz.scp.css
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Pages/Inscription.razor.rz.scp.css
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/Components/Pages/Recherche.razor.rz.scp.css
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/bundle/FilmFront.styles.css
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/projectbundle/FilmFront.bundle.scp.css
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.csproj.Up2Date
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/refint/FilmFront.dll
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.pdb
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/FilmFront.genruntimeconfig.cache
+/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/ref/FilmFront.dll

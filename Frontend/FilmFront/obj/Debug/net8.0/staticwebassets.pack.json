@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/obj/Debug/net8.0/scopedcss/projectbundle/FilmFront.bundle.scp.css",
+      "PackagePath": "staticwebassets/FilmFront.bundle.scp.css"
+    },
+    {
+      "Id": "/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/mouad/Bureau/BlazorWebsite-InProgress (2)/Frontend/FilmFront/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FilmFront.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FilmFront.props",
+      "PackagePath": "build\\FilmFront.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FilmFront.props",
+      "PackagePath": "buildMultiTargeting\\FilmFront.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FilmFront.props",
+      "PackagePath": "buildTransitive\\FilmFront.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

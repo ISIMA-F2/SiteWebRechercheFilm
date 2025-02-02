@@ -1,0 +1,38 @@
+@inject FilmService FilmService
+@page "/Films"
+
+<PageTitle>Films</PageTitle>
+
+<h3>Films</h3>
+
+@if (films == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <ul>
+        @foreach (var film in films)
+        {
+            <li>@film.Title (@film.Year)</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Film> films;
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            films = await FilmService.GetFilm();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading films: {ex.Message}");
+        }
+    }
+}

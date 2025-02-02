@@ -1,0 +1,79 @@
+@page "/Page"
+@inject FavorisService FavorisService
+@using System.Security.Claims
+@inject AuthProvider AuthProv
+<PageTitle>My Favorites</PageTitle>
+
+<div class="container mt-4">
+    @if (!string.IsNullOrEmpty(userId))
+    {
+
+        @if (favoriteMovies.Any())
+        {
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                @foreach (var movie in favoriteMovies)
+                {
+                    <div class="col">
+                        <div class="card shadow-sm rounded">
+                            @if (!string.IsNullOrEmpty(movie.Poster) && movie.Poster != "N/A")
+                            {
+                                <img src="@movie.Poster" class="card-img-top" alt="@movie.Film" />
+                            }
+                            <div class="card-body">
+                                <h5 class="card-title">@movie.Film</h5>
+                                <p class="card-text">Movie Poster</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-info">No favorite movies found.</div>
+        }
+    }
+    else
+    {
+        <div class="alert alert-warning">Please log in to see your favorite movies.</div>
+    }
+</div>
+
+@code {
+    private List<Favoris> favoriteMovies = new List<Favoris>();
+    private string userId = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var authenticationState = await AuthProv.GetAuthenticationStateAsync();
+        var user = authenticationState.User;
+
+        if (user.Identity?.IsAuthenticated == true)
+        {
+            var claim = user.FindFirst(ClaimTypes.NameIdentifier); // ✅ Use ClaimTypes.NameIdentifier
+            if (claim != null)
+            {
+                userId = claim.Value;
+                Console.WriteLine($"✅ User ID found: {userId}");
+                await GetFavoriteMovies();
+            }
+            else
+            {
+                Console.WriteLine("❌ User ID claim not found.");
+            }
+        }
+        else
+        {
+            Console.WriteLine("❌ User is not authenticated.");
+        }
+    }
+
+    private async Task GetFavoriteMovies()
+    {
+        if (!string.IsNullOrEmpty(userId))
+        {
+            favoriteMovies = await FavorisService.GetFavoris(userId);
+        }
+    }
+}
+

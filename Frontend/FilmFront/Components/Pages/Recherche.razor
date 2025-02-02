@@ -1,0 +1,113 @@
+@page "/recherche"
+@using System.Security.Claims
+@inject OmdbService OmdbService
+@inject FavorisService FavoriteService
+@inject AuthProvider AuthProv
+
+<PageTitle>Rechercher un film</PageTitle>
+
+<div class="container mt-4">
+    <div class="@searchFormPositionClass">
+        <div class="input-group mb-4">
+            <input type="text" class="form-control form-control-lg" placeholder="Rechercher un film..."
+                   @bind="searchTerm" @bind:event="oninput"
+                   @onkeyup="HandleKeyPress" />
+            <button class="btn btn-lg btn-primary" @onclick="SearchMovies">
+                Rechercher
+            </button>
+        </div>
+    </div>
+
+    @if (movies != null && movies.Any())
+    {
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var movie in movies)
+            {
+                <div class="col">
+                    <div class="card shadow-sm rounded">
+                        @if (!string.IsNullOrEmpty(movie.Poster) && movie.Poster != "N/A")
+                        {
+                            <img src="@movie.Poster" class="card-img-top" alt="@movie.Title" />
+                        }
+                        <div class="card-body">
+                            <h5 class="card-title">@movie.Title</h5>
+                            <button class="btn btn-outline-success btn-sm" @onclick="async () => { await AddToFav(movie); await OnInitializedAsync(); }">
+                                Ajouter aux favoris
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else if (hasSearched)
+    {
+        <div class="alert alert-info text-center">
+            <strong>Aucun film trouvé.</strong>
+        </div>
+    }
+</div>
+
+@code {
+    private string searchTerm = "";
+    private List<OmdbFilmDetail> movies = new List<OmdbFilmDetail>();
+    private List<OmdbFilmDetail> favoriteMovies = new List<OmdbFilmDetail>();
+    private bool hasSearched = false;
+    private string searchFormPositionClass = "search-center";
+    private string userId = string.Empty;
+
+
+protected override async Task OnInitializedAsync()
+{
+    var authenticationState = await AuthProv.GetAuthenticationStateAsync();
+    var user = authenticationState.User;
+
+    if (user.Identity is not { IsAuthenticated: true })
+    {
+        Console.WriteLine("User is not authenticated.");
+        return;
+    }
+
+    userId = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+    Console.WriteLine("The user ID is for adding a film: " + userId);
+}
+
+
+    private async Task HandleKeyPress(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            await SearchMovies();
+        }
+    }
+
+    private async Task SearchMovies()
+    {
+        if (!string.IsNullOrWhiteSpace(searchTerm))
+        {
+            movies = await OmdbService.GetFilm(searchTerm);
+            hasSearched = true;
+            searchFormPositionClass = "search-top";
+        }
+    }
+    public int ConvertStringToNumber(string input)
+    {
+        int result = 0;
+        foreach (char c in input)
+        {
+            result = result * 31 + c;
+        }
+        return result;
+    }
+    private async Task AddToFav(OmdbFilmDetail movie)
+    {
+        var favorite = new Favoris
+        {
+            Film = movie.Title,
+            Poster = movie.Poster,
+            UserId = userId,
+        };
+        favorite.Id = ConvertStringToNumber(favorite.Film + favorite.UserId);
+        await FavoriteService.AddFavoris(favorite);
+    }
+}

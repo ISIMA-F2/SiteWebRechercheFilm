@@ -1,0 +1,7 @@
+C:\Users\aynasri\BlazorWebsiteInProgress\Frontend\FilmFront\obj\Debug\net9.0\FilmFront.csproj.AssemblyReference.cache
+C:\Users\aynasri\BlazorWebsiteInProgress\Frontend\FilmFront\obj\Debug\net9.0\FilmFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynasri\BlazorWebsiteInProgress\Frontend\FilmFront\obj\Debug\net9.0\FilmFront.AssemblyInfoInputs.cache
+C:\Users\aynasri\BlazorWebsiteInProgress\Frontend\FilmFront\obj\Debug\net9.0\FilmFront.AssemblyInfo.cs
+C:\Users\aynasri\BlazorWebsiteInProgress\Frontend\FilmFront\obj\Debug\net9.0\FilmFront.csproj.CoreCompileInputs.cache
+C:\Users\aynasri\BlazorWebsiteInProgress\Frontend\FilmFront\obj\Debug\net9.0\FilmFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aynasri\BlazorWebsiteInProgress\Frontend\FilmFront\obj\Debug\net9.0\FilmFront.sourcelink.json

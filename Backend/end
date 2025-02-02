@@ -1,0 +1,36 @@
+[33mcommit bd70113500c63a9a7050c29770dcb8e687c55a7a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4050ef7 7d308fa
+Author: Ayoub Nasri <nas.ayou123@gmail.com>
+Date:   Sun Nov 24 17:34:45 2024 +0100
+
+    pulling the readme
+
+[33mcommit 4050ef721eeb493992bc0159330018d92e0f7953[m
+Author: Ayoub Nasri <nas.ayou123@gmail.com>
+Date:   Sun Nov 24 17:32:48 2024 +0100
+
+    Creating the favoris Bd
+
+[33mcommit 7d308fa0dc8275b24f5659b234a4fac54b88344b[m
+Author: AyB2003 <153489561+AyB2003@users.noreply.github.com>
+Date:   Mon Nov 18 22:13:44 2024 +0100
+
+    Update README.md
+
+[33mcommit fc838480eb603dae942474e3ef85f4fe8b0dc9fc[m
+Author: AyB2003 <153489561+AyB2003@users.noreply.github.com>
+Date:   Mon Nov 18 22:13:14 2024 +0100
+
+    Create README.md
+
+[33mcommit ee5f3604f01a9b0f389b2e7d3d92b01b69d3d7a5[m
+Author: Ayoub Nasri <nas.ayou123@gmail.com>
+Date:   Sun Nov 17 17:37:54 2024 +0100
+
+    Modification des controlleur
+
+[33mcommit a1d04f8b5ba1f86391505b9b4e2d7a2943822ea2[m
+Author: Ayoub Nasri <nas.ayou123@gmail.com>
+Date:   Sun Nov 17 17:31:08 2024 +0100
+
+    Initial commit

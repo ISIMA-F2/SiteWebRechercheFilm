@@ -1,0 +1,75 @@
+@inject UserService UserService
+@inject NavigationManager NavigationManager
+@inject AuthProvider AuthProv
+@inject ILogger<Formulaireconnexion> Logger
+
+<EditForm FormName="connexion" Model="@loginModel" OnValidSubmit="Connexion">
+    <DataAnnotationsValidator />
+
+    <div class="mb-3">
+        <label for="login" class="form-label">Login</label>
+        <InputText id="login" @bind-Value="loginModel.Login" class="form-control" />
+        <ValidationMessage For="@(() => loginModel.Login)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label for="password" class="form-label">Mot de passe</label>
+        <InputText type="password" id="password" @bind-Value="loginModel.Password" class="form-control" />
+        <ValidationMessage For="@(() => loginModel.Password)" class="text-danger" />
+    </div>
+
+    @if (loginFailed)
+    {
+        <div class="alert alert-danger" role="alert">
+            Identifiants incorrects. Veuillez vérifier votre login et mot de passe.
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary w-100">Se connecter</button>
+</EditForm>
+
+@code {
+    private Userinfo loginModel = new Userinfo();
+    private bool loginFailed = false;
+
+    private async Task Connexion()
+    {
+        var user = await UserService.Login(loginModel);
+
+        if (user != null)
+        {
+            var userDetails = user.User;
+            var token = user.Token;
+            await AuthProv.LoginAuth(userDetails, token);
+            Logger.LogInformation("User logged in");
+            Logger.LogInformation("User id is: " + userDetails.Id);
+            NavigationManager.NavigateTo("/Recherche");
+        }
+        else
+        {
+            loginFailed = true;
+            StateHasChanged();
+        }
+    }
+    private async Task<string> GetQueryParm(string key)
+    {
+        var uri = NavigationManager.ToAbsoluteUri(NavigationManager.Uri);
+        var query = Microsoft.AspNetCore.WebUtilities.QueryHelpers.ParseQuery(uri.Query);
+        if (query.TryGetValue(key, out var value))
+        {
+            return value;
+        }
+        return string.Empty;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var returnUrl = await GetQueryParm("ReturnUrl");
+        if (!string.IsNullOrEmpty(returnUrl))
+        {
+            var authState = await AuthProv.GetAuthenticationStateAsync();
+                NavigationManager.NavigateTo(returnUrl);
+            
+        }
+    }
+}

@@ -1,0 +1,33 @@
+@page "/test"
+@rendermode InteractiveServer
+@using System
+
+<PageTitle>Interactive</PageTitle>
+
+<h1>Such wow</h1>
+
+@if (hidden == false)
+{
+    <p>J'adore les @fruits</p>
+} else {
+    <p>Caché !</p>
+}
+
+<button class="btn btn-primary" @onclick="DoSomething">Do something</button>
+<button class="btn btn-primary" @onclick="Hide">Hide/Show</button>
+
+@code {
+    private string fruits = "pommes";
+    private bool hidden = false;
+
+    private void DoSomething()
+    {
+        fruits = "cerises";
+    }
+
+    private void Hide()
+    {
+        hidden = !hidden;
+    }
+}
+
